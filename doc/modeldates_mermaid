@@ -1,0 +1,17 @@
+# Flask
+
+## Modelo relacional
+
+```mermaid
+erDiagram
+    User ||--o{ Post : id
+    User {
+        string username
+        string password
+    }
+    Post {
+        date created
+        string title
+        string body
+    }
+```
