@@ -1,6 +1,6 @@
-# Documentació projecte block flask
+# Documentació Projecte BlogFlask
 
-- [Model de dades](modeldades.md)
-- Peticions Http
-- Mapa de peticions Http (Get / Post)(maparoutes.md)
-[]
+- [Model de dades](modeldedades.md) <br>
+- [Comandes Flask](comandesflask.md) <br>
+- [Mapa de peticions Http (GET / POST)](maparoutes.md) <br>
+- [Diagrames de Classes / components](diagcomponents.md)
